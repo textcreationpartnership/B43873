@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The source, force, and course of excommunications conducing to the clearing of that seeming perplexed question, of and amongst the Assembly of Divines : where the seate of the power of excommunication is? resolved : whether in the churches of, and in monarchies, or in the Presbyterian : extracted out of the originalls in the Old Testament, as the radix, pursuing the New Testament, and so to the civill and cannon lawes, and their congruities with both / by J.D.S.</title>
+            <author>J. D. S.</author>
+         </titleStmt>
+         <extent>Approx. 51KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43873</idno><idno type="EEBO-CITATION">625106357</idno>
+  <idno type="VID">211335</idno>
+  <idno type="EEBO-PROQUEST">2248531864</idno>
+  
+            <idno type="OCLC"> 625106357</idno>
+            <idno type="OCLC">ocn 625106357</idno>
+            <idno type="STC">Wing S107</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43873)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211335)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2970:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The source, force, and course of excommunications conducing to the clearing of that seeming perplexed question, of and amongst the Assembly of Divines : where the seate of the power of excommunication is? resolved : whether in the churches of, and in monarchies, or in the Presbyterian : extracted out of the originalls in the Old Testament, as the radix, pursuing the New Testament, and so to the civill and cannon lawes, and their congruities with both / by J.D.S.</title>
+                  <author>J. D. S.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Headpiece, initial.</note>
+                  <note>Imperfect: stained, torn and with print show-through.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="meeting_name">Westminster Assembly (1643-1652) --  Early works to 1800.</term>
+               <term type="topical_term">Excommunication --  Church of England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:211335:1"/>
+            <pb facs="tcp:211335:2"/>
+            <pb facs="tcp:211335:2"/>
+            <p>The Source, Force, and Course OF <hi>EXCOMMƲNICATIONS,</hi> Conducing to the clearing of that seeming perplexed question, of and amongst the ASSEMBLY of DIVINES.</p>
+            <p>Where the seate of the power of Excom<g ref="char:EOLhyphen"/>munication is? RESOLVED.</p>
+            <p>Whether in the <hi>Churches</hi> of, and in <hi>Monarchies;</hi> or in the <hi>PRESBYTERIAN.</hi>
+            </p>
+            <p>Extracted out of the Originalls in the Old Testament, as the RADIX; pursuing the New Testament, and so to the Civill and Cannon Lawes, and their congru<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ties with both.</p>
+            <q>Nec semper blanditur a pes dulc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dine mellis.</q>
+            <p>By <hi>J. D. S.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:211335:3"/>
+            <pb n="3" facs="tcp:211335:3"/>
+            <head>The Source, Force, and Course of <hi>Excommunications.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He holy <hi>Sabbath</hi> was instituted for the <hi>Sanctifying;</hi> The <hi>A ke</hi> was prepared for the preserving; The <hi>Decalogue</hi> promu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gated for the <hi>Instructing;</hi> and <hi>Excommuni<g ref="char:EOLhyphen"/>cation</hi> ordained for the <hi>Purging</hi> of the <hi>Church:</hi> All which (a<g ref="char:EOLhyphen"/>mongst other things) shew that of all those the Church hath need.</p>
+            <p>The latter of these hath in these latter times fa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne into the managing of Masters, more exorbitant, then unskilfull, the Ecclesiasticall <hi>Lamechs</hi> and <hi>Nimrods:</hi> Which I know not to whom better in one respect to compare, then to <hi>Bearewards,</hi> who publikly carry about with them things of danger, muz<g ref="char:EOLhyphen"/>led to get mony with; wherby as those, so this hath bin more slighted and sported with (if not more scorned) then feared the use and result whereof, I know not well how to distin<g ref="char:EOLhyphen"/>guish from <hi>Symonie</hi> when a man for every triviall occasion shut out of the Church, may buy himselfe in againe for money.</p>
+            <p>The present times are full of expectation of Reformation,
+<pb n="4" facs="tcp:211335:4"/> principally of the <hi>Church,</hi> both for <hi>Doctrine,</hi> and <hi>Discipline:</hi> I conceive the latter in its degree hath as much need as the former; towards which I also conceive the true considerati<g ref="char:EOLhyphen"/>on and understanding of the <hi>Originall the nature, the power, the extent, the danger and true, and due administration</hi> of <hi>Ex<g ref="char:EOLhyphen"/>communication</hi> may much conduce, to which purpose, I have yet timely enough (I hope) hewed out (only) this block, lea<g ref="char:EOLhyphen"/>ving and humbly submitting it to the Masters of the Assem<g ref="char:EOLhyphen"/>blies to be by them proportioned, clensed, and polished into <hi>Goades,</hi>
+               <note place="margin">Eccl. 12.11.</note> and <hi>N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iles,</hi> and then fastned: The method I shall use, is by drawing the matter into three general Queres; with their divisions, distinctions▪ and in some part resolu<g ref="char:EOLhyphen"/>tions: Thus much for <hi>Jntroduction.</hi>
+            </p>
+            <list>
+               <item>1. First, the <hi>Originall,</hi> and the right understanding and sence of the word <hi>Excommunicate,</hi> and of those whence it is derived or taken.</item>
+               <item>2. The Nature, Power, Extent, Lymitation, and se<g ref="char:EOLhyphen"/>verall sorts and effects of it: And under that head also of appeales from the sentence of <hi>Ex<g ref="char:EOLhyphen"/>communication.</hi>
+               </item>
+               <item>3. The <hi>Power</hi> of <hi>Sentencing</hi> in whom.</item>
+            </list>
+            <p>Concerning all which, to be rightly informed, wee must have recourse.</p>
+            <p n="1">1. To the <hi>Law</hi> of <hi>God</hi> in the Old Testament, and the pra<g ref="char:EOLhyphen"/>ctise of his people therein and since.</p>
+            <p n="2">2. The Doctrine of <hi>Christ</hi> and his Apostles in the new.</p>
+            <p n="3">3. The <hi>Laws</hi> of <hi>Nations</hi> commonly called the Civill and Cannon Law, and how in many cases they take their ground from Scripture.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> For the first of these three Questions, it is best under<g ref="char:EOLhyphen"/>stood, by taking into consideration all the words by which in Scripture it is termed or expressed, as <hi>Anathemate, Exe<g ref="char:EOLhyphen"/>crable, Abominable, Cursed, Damned, Cast out, Cut off, Ex<g ref="char:EOLhyphen"/>communicate:</hi> All which, as they are found in severall places may sometimes be taken to signifie one and the same thing. Yet in other places and cases there is found plaine and per<g ref="char:EOLhyphen"/>spicuous differences and sences, some as much different as
+<pb n="5" facs="tcp:211335:4"/> good from bad. First then of the word <hi>Anathema,</hi> which hath three severall extentes.</p>
+            <p n="1">1. To things <hi>Inanimate.</hi> 2. To <hi>Persons.</hi> 3. To <hi>Places.</hi>
+            </p>
+            <p n="1">1. To things <hi>Inanimate,</hi>
+               <note place="margin">Deut. 7.25 26.</note>
+               <hi>Covet not the silver or Gold of the Idoll, nor take it unto thee, bring not the abomination into thine house lest thou be accursed, like it</hi> Saint <hi>Jerom</hi> neerest the <hi>Original ne fias Anathema,</hi> and <hi>Deut.</hi> 13.27. it is called <hi>dam<g ref="char:EOLhyphen"/>ned,</hi> Saint Jerom <hi>Anathema.</hi>
+            </p>
+            <p n="2">2. To Persons:<note place="margin">Jos. 6.26.</note>
+               <hi>Cursed be the man that riseth up and buil<g ref="char:EOLhyphen"/>deth this Citie,</hi> Saint <hi>Ierom. Sit ille Anathema.</hi>
+            </p>
+            <p n="3">3. To places: <hi>The Citie shall be an execrable thing,</hi>
+               <note place="margin">Jos. 6.17.</note> Saint <hi>Ierom: Res Anathemata.</hi>
+            </p>
+            <p>Therefore of this one word which comprehends so much and much more varietie; we must yet search out the Ori<g ref="char:EOLhyphen"/>ginall, composition, and further signification.</p>
+            <p>For that, we must resort to <hi>Ios:</hi> again; where we shall find one and the same word, used to one and the same thing, in two contrary sences; in one place for Silver and Gold con<g ref="char:EOLhyphen"/>secrated to the <hi>Lord:</hi> and the other place for the same silver and gold accursed, yet both very well reconciled; and for the better understanding of it, which hath two severall ex<g ref="char:EOLhyphen"/>positions suitable to the said two contrary sences, wee must expound this compound word of <hi>Ana quod est sursum,</hi> and <hi>Thesis quod est positio:</hi> Then in the first sence, <hi>Res Anathema</hi> is a thing put or lift up to the <hi>Lord</hi> from common uses, in one word <hi>Consecrate:</hi> So in the first of those places: The Gold and Silver of <hi>Iericho</hi> (of the very same wherof <hi>Achan</hi> tooke part) is commanded to bee consecrate to the <hi>Lord:</hi>
+               <note place="margin">Jos. 6.17, 18, 19.</note> what the Consecrating, is in the same place marginally ex<g ref="char:EOLhyphen"/>pounded (and warranted by other places of Scripture shew<g ref="char:EOLhyphen"/>eth) moulten in the fire:</p>
+            <p>But then secondly, in the second place and contrary sence:<note place="margin">Jos. 7.2.</note>
+               <hi>Achan</hi> taking a Wedge of the same Gold, is said to take the accursed or excommunicate thing, but more properly as Saint <hi>Ierom</hi> hath it: <hi>Usurpavit de Anethemate;</hi> which thing being by him as it were taken and purloined from the <hi>Lord,</hi> was to him accursed: But then for the exposition of this compound word to this sence, I will as I mentioned before
+<pb n="6" facs="tcp:211335:5"/> take some Observations out of the Civill or Cannon Laws, so in one of their bookes, I finde it thus expounded or deri<g ref="char:EOLhyphen"/>ved: <hi>ab Ana quod est sursum,</hi> and <hi>Thema quod est figura r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tunda,</hi>
+               <note place="margin">Extravag: com. <hi>58.</hi> c, <hi>3.</hi>
+               </note>
+               <hi>haben te telum extransverso que consnevit poni in fron<g ref="char:EOLhyphen"/>tibus D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mnatorum.</hi>
+            </p>
+            <p n="3">3. And if we would have it yet more plain, observe but the 17th verse of that 6th Chapter: there it is said the Citie shall be <hi>Anathem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> or an Execrable thing (wherein was the Gold the Silver and the Brasse) Those which tend<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r the He<g ref="char:EOLhyphen"/>brew word there used, say it is <hi>Herem:</hi> This I find the Ex<g ref="char:EOLhyphen"/>positors call an equivocall of this double signification,<note place="margin">Lyra super Ios. <hi>6.</hi>
+               </note>
+               <hi>De<g ref="char:EOLhyphen"/>structio &amp; consecratio:</hi> So thus have we the true sence of that first word taken in two severall contrary sences, reconciled: And thus much concerning <hi>Anathema</hi> as we finde it in the Old Testament; wherein following our vulgar translations wee have it in the severall termes of <hi>execrable, abominable, accursed, damned:</hi> yet Saint <hi>Ierom</hi> as neerest to the Origi<g ref="char:EOLhyphen"/>nall doth in all these places use onely the same word <hi>Ana<g ref="char:EOLhyphen"/>thema.</hi>
+            </p>
+            <p>Thus much may serve observable out of the Old Testa<g ref="char:EOLhyphen"/>ment.</p>
+            <p n="2">2. But then secondly as concerning the same word in the the New Testament: where we find the word <hi>Excommuni<g ref="char:EOLhyphen"/>cate</hi> as a generall word, if wee consider it according to the severall places, matters, occasions, and sences where or wher<g ref="char:EOLhyphen"/>in it is used; we shall finde as three severall sorts of <hi>Excom<g ref="char:EOLhyphen"/>munication;</hi> so likewise three severall termes by which <hi>Ex<g ref="char:EOLhyphen"/>communication</hi> is notified, and amongst them the termes of casting out, and cut off, all of different signification ex<g ref="char:EOLhyphen"/>tent and use which concludeth the first, and will also ex<g ref="char:EOLhyphen"/>plaine in part the second generall question.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> The first is <hi>Casting out, Iohn</hi> 9.22. and 24. concern<g ref="char:EOLhyphen"/>ing him that was borne blinde, and his Parents, in which place, those which render the Hebrew word, for it <hi>Niddim,</hi> English it, separation or putting away, [though I am not ig<g ref="char:EOLhyphen"/>norant that his Gospell was not written in Hebrew) It was in the practice and use of it against such, as were of a con<g ref="char:EOLhyphen"/>trary faith to the <hi>Synagogue:</hi> done (though not publikely or
+<pb n="7" facs="tcp:211335:5"/> published) by the whole <hi>Synagogue,</hi>
+               <note place="margin">Mos de ra<g ref="char:EOLhyphen"/>tibus Inde<g ref="char:EOLhyphen"/>orum.</note> it extended to both Sexes, it excludes from all manner of company society, ea<g ref="char:EOLhyphen"/>ting or drinking with others, from the marriage bed: only it had with it a supersedeas of 30. dayes if the party repen<g ref="char:EOLhyphen"/>ted: and in the meane time he might bee present at divine service, he might learne, teach, hire or be hired: if after he continued unrepentant, his Male Children were not cirum<g ref="char:EOLhyphen"/>cised: if hee dyed in that condition, hee was not buried in usuall buriall: A stone was cast upon his Coffin, to signifie he was worthy to be stoned to death.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> The second was giving over to satan, or <hi>Cut off:</hi> this we have 1 <hi>Cor.</hi> 5.5. and 1 <hi>Tim.</hi> 1.20. in which case those which render the Hebrew Word <hi>Cherem,</hi> doe in that differ, as in the cause, so in the manner circumstance, and extent: The manner and cirumstance was 3. fold.</p>
+            <list>
+               <item>1. It was published in the audience of the whole Church.</item>
+               <item>2. Maledictions and curses were added to it.</item>
+               <item>3. At the publishing Candles were lighted, and at the end of the Curses they were all put out, which signified that those thus <hi>Excommunicate</hi> or delivered over to Sathan were deprived of the light of Heaven.</item>
+            </list>
+            <p>Thus in the New Testament; and so further in the time and by the direction and sentence of the Apostle, St <hi>Paul</hi> in two perticular cases; the one of the Incestuous person; the other of <hi>Hymeneus</hi> and <hi>Alexander</hi> who had made ship<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rack of their Faith.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> The third sort was <hi>Excommunication to death;</hi> 1 <hi>Cor.</hi> 16.22. Those which render the word in that case have <hi>Maranatha</hi> a <hi>Syriach</hi> word the <hi>Iews</hi> use the word <hi>Schammatha:</hi> both thus in the Etymologue <hi>Maran</hi> or <hi>Schem,</hi> the Lord <hi>Atha, Com<g ref="char:EOLhyphen"/>moth:</hi> Others thus, <hi>Schem</hi> there, <hi>Mitha</hi> death: so an Ex<g ref="char:EOLhyphen"/>communication to death, and this was termed by some <hi>Ex<g ref="char:EOLhyphen"/>communicatio in secreto nomine Tetragrammati,</hi> Those that were thus Excommunicate, were by some thought to bee such as hated or denyed the <hi>Lord-Iesus.</hi> By others such as had committed the sinne against the <hi>Holy Ghost;</hi> thus much for these words and the severall acceptations, sences, and extents of them, in the New Testament, and in part of the three sorts of <hi>Excommunication.</hi>
+            </p>
+            <pb n="8" facs="tcp:211335:6"/>
+            <p>But we cannot yet leave the new Testament unles we shold leave out the <hi>Alpha</hi> and <hi>Omega</hi> therof: who beside the mat<g ref="char:EOLhyphen"/>ter now handled, doth also for the manner of proceedings (which will fall out to bee of extraordinary consequence in this case) give such a standard rule as that for motion, pra<g ref="char:EOLhyphen"/>ctise and conclusion, the whole matter must depend on, and is in the doctrine touching the offending and offended bro<g ref="char:EOLhyphen"/>thers: for the clearer understanding and evidence wherein, we will take in the very text;<note place="margin">Mat. 18.15 16, 17.</note>
+               <hi>Moreover if thy brother tres<g ref="char:EOLhyphen"/>passe against thee; goe and tell him his fault betweene thee and him alone, if hee heare thee, then hast thou woon thy brother: But if hee heare thee not, take yet with thee one or two, that by the mouth of two or three witnesses, every word may bee confir<g ref="char:EOLhyphen"/>med: And if hee will not vouchsafe to heare them, tell it unto the Church, and if he refuse to heare the Church also, let him be to thee as an heathen man and Publican.</hi>
+            </p>
+            <p>From which there are two things principally in this case to be observed.</p>
+            <p>One thing necessarily implyed in these words; <hi>If he re<g ref="char:EOLhyphen"/>fuse to heare the Church,</hi> which is [if it come so farre) the Church is also bound to heare the offending, as well as the offended brother: else how can the Church know whether he heare it or not, for the offending brother may heare both the offended and the Church, and acknowledge his fault, and give satisfaction, and yet the offended brother not having it punctually according to his owne mind and judgment, wil not acknowledge that the offending brother hath heard him or the Church: besides which also there may bee diverse o<g ref="char:EOLhyphen"/>ther varieties of cases, and as it is the rule of Gods word, so it is <hi>Jus Commune</hi> of all Nations, and of nature it selfe, be<g ref="char:EOLhyphen"/>fore judgment, to heare both parties: But the other thing to be observed is, that before sentence the offender must be summoned, and here in this case there are of it three degrees.</p>
+            <p>First, By the Offended brother betweene them two a<g ref="char:EOLhyphen"/>lone.</p>
+            <p>Secondly, By or at leastwise before two or three wit<g ref="char:EOLhyphen"/>nesses.</p>
+            <pb n="9" facs="tcp:211335:6"/>
+            <p>And lastly by the Church it se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fe, for otherwise how can hee heare the Church before condemation, if the Church doe not call and summon him to heare it.</p>
+            <p>The reason why I urge this so much will appeare by that which followes.</p>
+            <p>First, because a man so contumax as not to heare the Church, is upon the point (though not in expresse tearme) pronounced by Christ himselfe to be Excommunicate: to make that plaine, the words are, <hi>Let him be to thee as an hea<g ref="char:EOLhyphen"/>then man, and a Publican:</hi> an heathen is one so farre shut out of the Church as never of himselfe in, and that by the strong Covenant of Grace too: but hee must bee also as a Publican too; A Publican was one that when the state of the Jewes was a Tributary to the <hi>Romans,</hi> gathered up all the Tribute mony: which was an imployment so odious to all the Iewish Nation in respect of the exactions and ex<g ref="char:EOLhyphen"/>tortions imputed to be used therein that some hol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> [as <hi>Ter<g ref="char:EOLhyphen"/>tullian,</hi> that no <hi>Jew</hi> would take it upon him,<note place="margin">Tertul. Eo<g ref="char:EOLhyphen"/>pudu. c. <hi>9.</hi>
+               </note> but how ever true or not, this is certaine the Office was so odious and abominate amongst them, that they had and held this gene<g ref="char:EOLhyphen"/>rall <hi>Rabinicall</hi> Proverbe and Rule: <hi>Take not a wife out of that Family, wherein there is a Publican:</hi> All this &amp; this condition amounted to an <hi>Excommunication</hi> in a high (though not in the highest) degree, and so proper to the point in hand.</p>
+            <p>But then secondly, for and as a generall concluding and binding Rule, no <hi>Excommunication</hi> without graduall <hi>Mo<g ref="char:EOLhyphen"/>nition.</hi>
+            </p>
+            <p>So taking these grounds out of the Scripture, to fortifie all which I shall collect out of the <hi>Civill</hi> and <hi>Cannon Lawes,</hi> and which in this point doe all generally concurre with this Rule of Scripture, I shall now fall upon it, which is the last Rule of explanation, and must also satisfie, resolve and cleere the points of the two last generall Queres.<note place="margin">The Civil and Can<g ref="char:EOLhyphen"/>non Laws resolving the second generall Quere.</note>
+            </p>
+            <p>And finding the <hi>Lawes</hi> in this point to bee almost of an unlimitted latitude, and such as will rather cloye then con<g ref="char:EOLhyphen"/>tent, the investigation; that I might therein neither imper<g ref="char:EOLhyphen"/>tinently wander, nor slight things pertinent, I put on this double resolution.</p>
+            <pb n="10" facs="tcp:211335:7"/>
+            <p>First to take my observations out of those authors or au<g ref="char:EOLhyphen"/>thorities, whether <hi>Cannons</hi> or <hi>Decretalls</hi> as were in this case most contracted.</p>
+            <p>Secondly to take out, and bound my way, by or within certaine lynes or points, Classes or rankes, some generall, some perticular, all or most of them taking their grounds from the former, which shall be principally these five.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> First, The severall natures, kindes, or degrees, and ex<g ref="char:EOLhyphen"/>tents of <hi>Excommunication.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, What persons exempt or not exempt if any.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, <hi>Excommunications</hi> appealeable; which and in what Cases they are and are not, and what persons capable or uncapable of appeales.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> The fourth, the manner and degrees of legall proceedings in them all.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fifthly, [so far forth as these authorities will give leave] who are or ought to bee the competent Judge or Judges in Appeales: None of which I intend to prosecute as a <hi>com<g ref="char:EOLhyphen"/>mon place,</hi> but onely as a Land-mark directing to the right and Sea-marks for declining the wrong still under the sub<g ref="char:EOLhyphen"/>mission aforesaid for the regulating of the use and Reforma<g ref="char:EOLhyphen"/>tion of the abuse of this legall, <hi>Clavis &amp; Virga Ecclaesiae Ex<g ref="char:EOLhyphen"/>communicatio.</hi>
+            </p>
+            <p>To these five I could have added a sixth [though not wor<g ref="char:EOLhyphen"/>thy to be any, which is that of <hi>Ipso facto,</hi> or <hi>Ipso jure;</hi> con<g ref="char:EOLhyphen"/>cerning which I will briefly give a touch, as a man would do to an impertinency as this is, remove it out of his way that it may bee no <hi>Remora</hi> in a full and cleere course to matters of consequence, briefly thus.</p>
+            <p>This kinde is by the Civilians or Canonists to be predo<g ref="char:EOLhyphen"/>minant in 52. severall cases: whereof say they, 16. are re<g ref="char:EOLhyphen"/>served to the Pope; that is as I conceive in point of absolu<g ref="char:EOLhyphen"/>tion: But having nothing to doe with that <hi>Chaos</hi> of confu<g ref="char:EOLhyphen"/>sion and damnable doctrine, but Christianlike, and charita<g ref="char:EOLhyphen"/>bly to pray for the conversion of him and his followers; or if that may not be, then in Gods good time for their utter subversion: I will have as little to doe with his reservati<g ref="char:EOLhyphen"/>ons, and no more to doe with this kinde of <hi>Ipso facto,</hi> which
+<pb n="11" facs="tcp:211335:7"/> indeed by some of the Rules of their owne law cannot bee lawfull: But if in any case then against <hi>Apostatats:</hi> and in that case I thinke it may be well warranted if by no other, yet by the true Law of <hi>Reason;</hi> in that they exclude them<g ref="char:EOLhyphen"/>selves out of the Church, and so to the five points last men<g ref="char:EOLhyphen"/>tioned.</p>
+            <p>First the severall natures degrees and extents of <hi>Excom<g ref="char:EOLhyphen"/>munications:</hi> they are in number especially two; And herein also observe how the Civill and Canon Laws concurre with the practice of Gods people in the old Law, aad how farre, and how it hath its ground from or agreement with holy Scripture.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. <hi>Excommunicatione major,</hi> which carries with it the title of <hi>Anathema,</hi> this excludeth <hi>A Sacramentorum parti<g ref="char:EOLhyphen"/>cipatione, a Communicatione fidelium, ab ingressu Ecclesiae,</hi>
+               <note place="margin">
+                  <hi>Sixt.</hi> 232.</note>
+               <hi>a Sepultura in eo statu in Cemiteriis:</hi> in a word it is stiled, <hi>Mor<g ref="char:EOLhyphen"/>tis eterne damnatio.</hi>
+            </p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. The second <hi>Excommunicatio minus, solum separat a Sa<g ref="char:EOLhyphen"/>cramentorum participatione:</hi>
+               <note place="margin">
+                  <hi>Clem.</hi> 42. c. 4. <hi>Sixt:</hi> 225. c. 2.</note> So the Canons and Constituti<g ref="char:EOLhyphen"/>ons of <hi>Sixtus Clement</hi> and the rest agree. This of a narrow scantling, That a person so excommunicate may for a time officiate, and celebrate without any appeale or absolution: but for the former an appeale must be had before the partie so Excommunicate can celebrate. And as in both these there must be in all points due course of proceedings held, so in some cases also that being observed, they may be voyd in themselves after denunciation: which point will fall out to be further explained in the Section of Appeales, or more properly in the handing the fourth point.</p>
+            <p n="2">2. The second concerning persons exempt or not exempt from both, or either sorts of Excommunication.</p>
+            <p>First it being granted by the Civilians and Cannonists, that the King of <hi>France</hi> and some Temporall Lords also have Immunity from Excommunication: I shal make bold to extend that line to all Christian Kings whosoever for se<g ref="char:EOLhyphen"/>verall reasons.</p>
+            <p>First for that no perticular cause is by them shewed (nor doth appeare in the grounds of their Rules) wherein
+<pb n="12" facs="tcp:211335:8"/> or for which the Kings of <hi>France</hi> have such perticular ex<g ref="char:EOLhyphen"/>emption.</p>
+            <p>Secondly for that all power in all the Protestant Monar<g ref="char:EOLhyphen"/>chies, and in <hi>France,</hi> also the donative power of the Judge which must grant it is subordinate and holdeth of the King, who neither giveth nor can give power to Exommunicate himselfe, besides the act and jurisdiction of Excommunica<g ref="char:EOLhyphen"/>tion is an appendant to the place and Office, not to the per<g ref="char:EOLhyphen"/>son, and thereupon vacancy remaines till a person capable be admitted, which the King may doe to the place in gene<g ref="char:EOLhyphen"/>rall not perticularly, and alone to the power of Excommu<g ref="char:EOLhyphen"/>nication, which in the vacancy lyeth lapped up in the vest, as <hi>Goliahs</hi> sword in the Ephod, more may be rendred; But these only may suffice.</p>
+            <p>True it is that the Bishops Electors of the Empire doe not subordinarily hold off the Emperour, but their power in this case to him is as limited as to the rest.</p>
+            <p>The next then that may pretend in some cases to chal<g ref="char:EOLhyphen"/>lenge exemption are Arch-Bishops (for temporall Lords in the generall may be excommunicate) who though I find in<g ref="char:EOLhyphen"/>vested with many priviledges, As not to be tyed to lay his hand on the Evangelist,<note place="margin">
+                  <hi>Sixt.</hi> 28. c. 1.</note> when he taketh an Oath: That he may upon just cause take some rights from one Church, and give it to an other: That hee may without consent of the Chapter grant a faculty or Warrant to alyenate Church goods: That he may leavie and exact reliefe for the poore upon spirituall livings: That if by Letters of <hi>Marque,</hi> a ship be taken at Sea where in an Arch-bishop is, he cannot be holden, and diverse others, yet it is resolved that he hath no exemption from a due and legall Excommunication, issu<g ref="char:EOLhyphen"/>ing upon just cause, duely prosecuted, and withall, <hi>Acudice competente:</hi> But who that is, is so great a question as I will not take upon positively to decide, yet must bee argu<g ref="char:EOLhyphen"/>ed so farre as it may for the resolving of the last generall <hi>Quere.</hi>
+            </p>
+            <p>The third as touching Appeales and under his head also of Eccommunications voyd of themselves, in before, or after the sentence given, touching which last it may be in
+<pb n="13" facs="tcp:211335:8"/> severall particulars, As when the due order of monition is not observed.</p>
+            <p>Also when there is an appeale before sentence given, likewise when the sentence or Proces containe manifest er<g ref="char:EOLhyphen"/>ror. Againe if any Iudge whether delegate or other be ex<g ref="char:EOLhyphen"/>communicate himselfe, and in this last case I will not looke after any further authority of approbation then from our owne Records and Chronicles in the most pregnant case, (and it is a fortiori too) of the first sentence against that most worthy Martyr Mr. <hi>John Bradford.</hi> He in the yeare, 1554. was by Doctor <hi>Weston</hi> and others condemned of He<g ref="char:EOLhyphen"/>risie, and had sentence pronounced against him, but not then executed, after in <hi>Anno</hi> 1556. the matter being againe re<g ref="char:EOLhyphen"/>vived to have the former sentence put in execution,<note place="margin">Fox in Hist. Io. Bradford.</note> it was determined by the Judges themselves that the first sentence was void of it selfe, because some of those Judges at the time of the sentence given were excommunicate themselves and were not then absolved, therefore new Commissions were granted to them for the Convention and sentencing of him, and <hi>Latimer</hi> and <hi>Ridley</hi> upon which they were all three sentenced and delivered to the secular power.<note place="margin">Sixt. 20 c. 1.</note> But howsoever (to go on) from Excommunications lawfully prosecuted and denounced, the party so Excommunicate may lawfully appeale: If the question be demanded to whom hee may appeale, the definition in those Lawes what an appeale is resolves it <hi>Appelatio est de inferiori ad superio<g ref="char:EOLhyphen"/>rem provocatio,</hi> and in some cases particularly to a <hi>Synod</hi> which we shall further explaine a non.<note place="margin">Sixt. 131. Idem 132.</note>
+            </p>
+            <p>And here as in a convenient place we shall draw in the true cause and end of appeales which is, that they were de<g ref="char:EOLhyphen"/>vised and ordained for a remedy of the Innocent, but not to protect the nocent person, and doubtlesse hath (as in case of so great consequence as fit they should have) their ground and warrant from holy Scripture.</p>
+            <p>Lastly, If it should be demanded (to end this point) whe<g ref="char:EOLhyphen"/>ther all persons excommunicate be capable of appeales it is Answered, divers are not as Fellons, Murtherers, Jewes, persons convict of any notorious crime, as Vsurie, Symony
+<pb n="14" facs="tcp:211335:9"/> and divers others:<note place="margin">Clem. 51. c. 3.</note> Persons arrested upon the Writ <hi>de Excommunicatio capiendo;</hi> And of some it is questioned whether Common Stage-Players may appeale or not? Neither can any appealant appeale the third time? Nie<g ref="char:EOLhyphen"/>ther shall any appeale hold, but is void in Law when the appealant will sue in other Causes under the same Judge from whom he hath formerly appealed, Because if he bring a second appeale, and do neither prosecute nor prevaile, it brings a third sentence against the appealant by and before the same Iudge, Thus much in briefe for appeales.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> The 4th. concerning the due and legall course of procee<g ref="char:EOLhyphen"/>dings in them all.</p>
+            <p>In which though there be many rules and points to pro<g ref="char:EOLhyphen"/>ceed by; I will touch only one, which must be generally held in all, not omitting those <hi>ipso Facto,</hi> if any such may legally be, of which I make so great a quere as to leave it to abler judgements to resolve. But the generall rule of the Law is that of Christs; the persons to be excommunicate must all be proceeded against by way of monition, which in the le<g ref="char:EOLhyphen"/>gall practise of it, ought to be thrice, though but two days be<g ref="char:EOLhyphen"/>tween each: But if but one monition, then six dayes must be elapsed before sentence of Excoication; In which Case the Law is so punctuall, that if the Pope whom they would make both Fulminator and Comptroller generall of all Excommunications, or A Bishop should know of his owne knowledge, a man to keepe a Concubine, he cannot ex<g ref="char:EOLhyphen"/>communicate him without a monition <hi>Sub pena Excommu<g ref="char:EOLhyphen"/>nicationis Concubinam dimittere.</hi>
+            </p>
+            <p>This point that I so much insist upon, I know may bee thought by some uselesse, because in most places and cases used, but the reasons of my insisting upon it are two. First because I find that of late time in some very weighty cause it hath beene omitted, which how great the prejudice (nay I will say the sinne) may be I leave to others to judge. Se<g ref="char:EOLhyphen"/>condly for Caution in new discipline; a thing so requisit so warrantable nay so commended by the word of God as may no wise be omitted. I will not take upon mee to tutor away, but as it is most true that all humane actions
+<pb n="15" facs="tcp:211335:9"/> even the most quintessenced are mixed with imperfections, so whether by any slight esteeme, want of scrutinie, Iudge<g ref="char:EOLhyphen"/>ment, memorie, or the like; <hi>abundans cautela non nocet.</hi>
+            </p>
+            <p>This only for the 4th. legall course of proceedings. To which only I shall in this place, as most proper, desire to be observed, and so conclude this point, that in some point an excommunication obtained by a person uncapable to sue, shall neverthelesse stand good,<note place="margin">Sixt 96. c. 3</note> which is if in a cause sen<g ref="char:EOLhyphen"/>tence shall be given for an excommunicate person as plain<g ref="char:EOLhyphen"/>tiff, and the Defendant never alledge the excommunica<g ref="char:EOLhyphen"/>tion of the Plaintiff till after sentence pronounced against the defendant, it shall not bee voyd for that point of excom<g ref="char:EOLhyphen"/>munication in the Plaintiff, which in point of Cautions wherein I now am, I thought not amisse to be observed, thus much for the 4th. point; Next to the 5th. <hi>Competent Iudges.</hi>
+            </p>
+            <p>In this point having viewed divers Cases I shall insist on<g ref="char:EOLhyphen"/>ly upon two.</p>
+            <p>The first is that wherein a sentence of Excommunication is given by an Officiall or suffragan, the partie grieved cannot appeale to the Bishop, he is in this cause no com<g ref="char:EOLhyphen"/>petent Iudge for they having both one &amp; the same consisto<g ref="char:EOLhyphen"/>ry, such an appeale is but from one Iudge to the same, then by th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> former generall Rule all appeales must be <hi>ab inferio<g ref="char:EOLhyphen"/>ri ad superiorem,</hi> it fo lowes therefore the Archbishop or his delegate in this case is the only competent Iudge in ca<g ref="char:EOLhyphen"/>ses of appeale, but now heere the question which the times in this Kingdome hath produced is to be answered, what is to be done where there is neither Archbishop nor Bi<g ref="char:EOLhyphen"/>shop; This is most properly to be answered in the resolu<g ref="char:EOLhyphen"/>tion of the their generall <hi>Quere.</hi>
+            </p>
+            <p>The second is only concerning the times limited for begining and ending of appeales (which commonly are ac<g ref="char:EOLhyphen"/>compted delatorie) the general<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Rule is the appeale must be brought within ten dayes and ended in a yeare, unlesse some speciall cause bee or intervene to the contrary, thus much briefly for satisfying of the 5th. point and so am now come to the proceedings of the third and last generall <hi>Quere.</hi>
+            </p>
+            <div type="part">
+               <pb n="16" facs="tcp:211335:10"/>
+               <head>The power of sentenceing <hi>in whom.</hi>
+               </head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="III"/> HAving made a very short Cut over the Oceans of ap<g ref="char:EOLhyphen"/>peals and course of proceedings, I am now to shoot the Gulfe of this power, or the seat of this power of sentencing in whom? wherein I see in respect of the alterations which the times are like to produce in point of Ecclesiasticall Di<g ref="char:EOLhyphen"/>scipline, I cannot be so briefe nor come off with so little labour as I would for that divers points, and some of great moment and consequence are to be handled yet because in this point as in the rest I will pursue all brevitie, and cleerenesse too, to this purpose as more satisfactory to the maine point in question if any be, to draw both the questi<g ref="char:EOLhyphen"/>ons into one; That of the Assembly, where the seat of the power of Excommunication is; and mine owne The power of sentenceing in whom; between which I can perceive no essentiall difference: But then first concerning theirs, I may rather admit of the resolving of a question out of or upon it, then the raysing of it, in which question certainly by those words where the seat? they intend according to the laws: if any question in that be, it is which lawes they meane, whether the Lawes of God▪ or the other now in force if by the Lawes of God, it being a question in Divi<g ref="char:EOLhyphen"/>nity, who can better resolve it then Divines; I am not ig<g ref="char:EOLhyphen"/>norant that this question may be put only as leve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>led to one only point or pin that is to the Independants to w<seg rend="sup">ch</seg> if they give a direct answer punctuall and not dilatory or with <hi>sub<g ref="char:EOLhyphen"/>ter fuges</hi> it is to see whither and how, and wherein and how faire their opinion in that Case will agree or disagree with, or from theirs that put the question, but for the Indepen<g ref="char:EOLhyphen"/>dants, I think they are more froward then forward herein; for such as their Religion, such will be their resolution, and certainly their Religion if it bee any, is but a whispering Religion concerning which, though I forbeare to enlarge my selfe, others may know what I meane but to goe on: if the propounders of the question meane or intend the other Lawes; then certainly we are in so right a way hither<g ref="char:EOLhyphen"/>to, as will either fully resolve, or draw it to so neare a scan<g ref="char:EOLhyphen"/>ling
+<pb n="17" facs="tcp:211335:10"/> as will require no more in a manner then the word to bee given fully to assoile it: And here for further question upon upon that point, I conceive there is <hi>Nullum tercium;</hi> for they cannot intend by it any Lawes in that case to bee made; for then the question would have beene where it is or ought to be the seat, not barely, where is it so, then to conclude that point in their own question, it must bee con<g ref="char:EOLhyphen"/>fined, unto, or within the Lawes of God, or those now in force: and then it may the easilier be discovered, whether it doth tend, and where it will end which is in all questions one principall furtherance of resolution, and so now to goe on to the place and course from which by this last question I may seeme to have deviated.</p>
+               <p>First, then admit as undenyable the power of Excom<g ref="char:EOLhyphen"/>munication is vested and lodged wholly in Ecclesiasticall persons: Of these Bishops being now pared of, and ex<g ref="char:EOLhyphen"/>cluded, the seate and power, must either remaine in the rest, or else it is quite and in seperably gone with those Cashie<g ref="char:EOLhyphen"/>red: and under favour and submission to better judgments, I cannot see how for or by any thing that is yet done, that Bishops are or can be so totally cashiered or irradiated, but in the construction of the Civill and Cannon [if not in and by our Common Lawes too, he is still a Bishop, especially if we consider him in these three perticulars, and so hath in all or most of them a peculiar legall power.</p>
+               <p n="1">1. His Consecration.</p>
+               <p n="2">2. His legall power of Ordinations and institutions.</p>
+               <p n="3">3. His Office and power <hi>in spiritualibus</hi> as administrator or dispencer of the personall estates of deceased persons, his jurisdiction and sentence touching divorces, Marrying, Contracts, legittimation or illegi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>imation of issues, his power concerning Dowers of Women joynturelesse, the severall affaires and interests, the severall statutes of this Kingdom in trust him with; and to omit the rest, this very case of no small importance, Excommunications, in which he hath an intermixt and refortified interest and power by the stratutes [with that of the Civill and Cannon Laws of this Kingdome, and without which till legally derived unto
+<pb n="18" facs="tcp:211335:11"/> continued &amp; confirmed in some other person Excommuni<g ref="char:EOLhyphen"/>cation against refractory and exorbitant persons will do <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it<g ref="char:EOLhyphen"/>tle good without the Writ, <hi>De Excommunicato Capiendo,</hi> which delivering the offender to the pow<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r of the seculer Majestrate must first take its rise from the Bishop or such as shall have the same legall power: but being now within the Line of Excommunication, I must onely keep mee to that glancing by the way, to take off or rather satisfie others, exceptions concerning degradation, which as it is only to be don by Ecclesiastiques, and those too such as have power and capacity to do it, yet (when used) is only a formall favour in respect of the function and dignity, otherwise needlesse; when a Bishop for some capitall offence may be and is just<g ref="char:EOLhyphen"/>ly lyable to punishments in such cases due. And I heartily wish some of them had not deserved too much in that kind already; But to goe on with Excommunication, and for clearing the way and explaining the matter to that which followes, I will put a short case or question, suppose one of our now cashiered Bishops should commit some fact, or may teach or hold some error or the like, justly and meerly punishabl by excommunication: I would know who shall do it or how it may legally be don? and if it could be done, how it may hold? Certainly as from degradation, there is no ap<g ref="char:EOLhyphen"/>peale, so it is as certaine from Excommunication an ap<g ref="char:EOLhyphen"/>peale is as lawfull and cannot be denyed.</p>
+               <p>To shorten the businesse▪ no inferior Minister as the lawes now stands can doe it, for if it could be devised, the Bi<g ref="char:EOLhyphen"/>shop may restraine the power and processe of the Minister, <hi>in rebus quo ad lites:</hi> if a whole Congregation nay, all the Divines in the Kingdome should Excommunicate him, there must be forme as well as matter; if both could be had yet by all the Lawes in Christendome nay and Heathen too nay I may say further, if not <hi>jure Divino,</hi> yet <hi>jure Apostolico</hi> he may appeal &amp; it ought not cannot be denyed him cary<g ref="char:EOLhyphen"/>ing this alwayes along with us that all excommunications (except in the Cases excepted, have and must inseparably have and be accompanied with these two adjuncts and ap<g ref="char:EOLhyphen"/>pendants monition &amp; appeale; so then no power of excom<g ref="char:EOLhyphen"/>munication
+<pb n="19" facs="tcp:211335:11"/> in any but such as may be appealled from.</p>
+               <p>It is true in a Case of so high consequence it is fit for me for the surer warrant of this assertion to fetch my ground from holy Scripture: wherein though we find but one case that of Saint <hi>Paul,</hi> yet in that are two things Remarkable 1. That he that will do it,<note place="margin">Acts 25</note> may so do whether the Judge will or no under whose sentence he standeth. This is plaine by <hi>Festus</hi> his offer to <hi>Paule</hi> and his answer to it yet <hi>Festus</hi> wil<g ref="char:EOLhyphen"/>ling to get favour of the Jewes answered <hi>Paul</hi> and said,<note place="margin">Vers. 9</note>
+                  <hi>wilt thou go up to Jerusalem and there be judged of these things before me.</hi> Here the corrupt Iudge would have betrayed him into the same snare out of which by Gods wonderfull providence he had newly escaped, But when <hi>Paule</hi> answe<g ref="char:EOLhyphen"/>re resolutly; no man can deliver mee to them,<note place="margin">Vers 11</note> I appeale to <hi>Casar,</hi> he had as resolute an answer of the Iudge, because it could not be denyed him; to <hi>Caesar</hi> shalt thou go, And heere by the way is an appeal before sentence which maketh good a former assertion and point also of Law. The second the Person to whom Hee did appeale making good and and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>egall also another former assertion and point of Law, it was <hi>ab inferiori ad summum</hi> which rule I conceive in these cases must be held where there is no intermediat subordi<g ref="char:EOLhyphen"/>nate power as to a lawfull Synod of Divines to which a par<g ref="char:EOLhyphen"/>ty grieved may doubtles complain if there be any, yet I con<g ref="char:EOLhyphen"/>ce<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve under favour he cannot appea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e to a Nationall Synod for <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his reason; because of such a Synod there may be some Divines who have given the first sentence of Excommuni<g ref="char:EOLhyphen"/>cation,<note place="margin">Vers 12</note> and then he doth appeale from one to the same Iudge unlesse in such a Nationall Synod that may be avoy<g ref="char:EOLhyphen"/>ded and provided for, and this with this exception or Cauti<g ref="char:EOLhyphen"/>on. I conceive is the best rule to be held and guided by, thus far to resolve the question namely that the power if in our divines and Church is such, as may be legally appealed from.</p>
+               <p>But this argument may beget two other questions 1. I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> an appeale should be made by a Bishop to the King, what can the King doe in this case? 2. What need all this stirre in a Kingdome or state where no Bishops are? The first of these questions is not so difficult to resolve, but that both by our owne Lawes as they now stand, and by Presidents both
+<pb n="20" facs="tcp:211335:12"/> of the Primitive and Moderne times it may be cleared. But since it seemes we shall have no need of it, I shall for short<g ref="char:EOLhyphen"/>ning of the businesse, thus farre admit of the positive part of the latter; That in this Kingdome no Bishop hath (or at leastwise is like to have any power at all, and these dead either by naturall or Civill death there are not likely to be any more: I speak now, and all this while that I mention Bishops under that notion and title they are now common<g ref="char:EOLhyphen"/>ly taken; for otherwise lest in the largest construction the case were mischievous: For who knoweth not that every Generall of an Army, Major of a Citie, Master of a Com<g ref="char:EOLhyphen"/>pany, Master of a Ship, Clerke of a Market Parson of a Pa<g ref="char:EOLhyphen"/>rish, Minister, Vicar, Curate, are every one of them Epis<g ref="char:EOLhyphen"/>copus.</p>
+               <p>Why then in that point let us conceive our selves to bee in the condition of a free state, and a Presbitery settled therein, take for example that of <hi>Geneva,</hi> as one of the most refined in that kinde (which began about the yeare 1530. invented by <hi>Calvin,</hi> he doth so farre untie his owne knot as in giving a reason for it declareth that he did it not, because he Iudged Episcopacy, Antichristian, much lesse did recom<g ref="char:EOLhyphen"/>mend his discipline as a patterne to others as appeares by his Epistle to Cardinall <hi>Sadolet</hi>) But to goe on, there the Minister excommunicates it may be with the consent of his Brethren Ministers for it is plaine the Layick, and Secular, have not by any Law, any manner of power or capacity of power to act the least thing in the matter of sentence of Excommunication, why then it must bee insisted upon that in these cases and places the power of sentencing (which is the great and generall question) cannot bee in a mixt body of Ecclesiastiques and seculers if that should bee affirm<g ref="char:EOLhyphen"/>ed, I must then put this question <hi>quo warranto,</hi> which if it can bee clearely resolved, I shall bee the sooner drawne to yeeld.</p>
+               <p>Then to that question.</p>
+               <p>I suppose the mainteiners of that power must make it good, either by the Civill or Cannon Lawes, or that wan<g ref="char:EOLhyphen"/>ting by custome for <hi>Nullum tercium Invenio.</hi>
+               </p>
+               <p>For the first it appeareth to bee so totally and absolutely
+<pb n="21" facs="tcp:211335:12"/> against it, that I will mention it no further: Then next for custome, and I think the Civill or Canon Laws, choaketh it also; But wee shall a little better examine this point and power of custome.</p>
+               <p>Observing the rise of this tumerous body of custome in Free states, where Presbyteries are setled in other cases as well as this, I finde the way hath been where they find laws against them or wanting, to draw their own fantasies into customes, and then to make customes their deitie, ascribing to them all omnipotency: But the Lawes having an eye as well to former as future Customes, neither abrogating nor approving all, rectifieth them into a due course, and have for complyance with those which are or may be just, granted them liberties: and for others unwarrantable set them li<g ref="char:EOLhyphen"/>mits, thus? first in their definition.</p>
+               <p>Custome is a certaine right which is taken for law, when law wants: A little more largly.</p>
+               <p>
+                  <hi>Consuetudo est jus quoddam moribus institutum quod pro lege suscipitur cum deficit lex,</hi> againe.<note place="margin">
+                     <hi>clem.</hi> 44. c. 4. <hi>Sixt:</hi> 20. c. 3. <hi>Sixt.</hi> 83. c. 3. <hi>Sixt</hi> 132. c. 3. <hi>Sixt</hi> 20. c. 4.</note>
+               </p>
+               <p>
+                  <hi>Consuetudo dat jurisdictionem,</hi> againe.</p>
+               <p>
+                  <hi>Consuetudo legum interpres,</hi> thus much for priviledges and liberties.</p>
+               <p>Next for limits, and they come in as exceptions to all the former generall cases.</p>
+               <p>First, <hi>Consuetudo rationabilis est si non contra jus &amp; sufficit si pro</hi> 40. <hi>annis continuatur.</hi> But in certaine cases both cu<g ref="char:EOLhyphen"/>stome and prescription voyde, as in this or the like cases.</p>
+               <p>The Cannons of a Church of time long enough to in<g ref="char:EOLhyphen"/>troduce a custome (if it were reasonable) were wont to re<g ref="char:EOLhyphen"/>ceave daily distributions as well those present as absent, whether this be a voyd or a reasonable custome or not? re<g ref="char:EOLhyphen"/>solved in point of Law voyd: for those absent may not have those distributions because they are and ought to bee given into their hands, and are therefore rightly called <hi>Manna<g ref="char:EOLhyphen"/>lia benificia Clericorum,</hi> and so both custome and prescripti<g ref="char:EOLhyphen"/>on voyd: But to come to the point of Excommunication.</p>
+               <p>Excommunication cannot bee awarded or denounced meerly by any custome onely against private persons, if not
+<pb n="22" facs="tcp:211335:13"/> against them▪<note place="margin">
+                     <hi>Extravag: com.</hi> 23. c. 2.</note> much lesse against superiors, and then how can custom in free States or Presbyteries in them be enabled by any custome availe, have any power, to excom<g ref="char:EOLhyphen"/>municate.</p>
+               <p>But againe look into the former words of the definition of custome: it is a right taken for law where law wants, out of which is concluded <hi>aliter non.</hi> And then the lawes of, and for Excommunications being not wanting to any free State or Presbytery, if they will fol ow the rules of those Laws, they must excommunicate by those laws or else they have no power by custome or otherwise to excommu<g ref="char:EOLhyphen"/>nicate.</p>
+               <p>But lastly to conclude all, if we should admit them power by custome or prescription to excommunicate yet then those excommunications as all others whatsoever [except the former excepted] upon the first sentence of excom<g ref="char:EOLhyphen"/>munication must stil be inseparably accompanied with those two essentiall adjuncts. 1. Of due Monition. 2. Of power liberty and meanes to appeale, and of some certaine qua<g ref="char:EOLhyphen"/>lified person, to whom: which if they can doe and follow, I may grant, that which is not yet granted that presbiteries in free States may by custome or p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>escription have power to excommunicate, <hi>aliter constant esse impossibile.</hi>
+               </p>
+               <p>And now having drawne the lyne along the work I find by a retrospect of that which is already done the worke of too short a scantling for the lyne and therefore fits here to tye the knot: For though it <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e true by all this which is said it doth not yet c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>earely appeare in whom the power of sen<g ref="char:EOLhyphen"/>tencing is; Yet is most plaine that in the case of Presby<g ref="char:EOLhyphen"/>tery of Divines and seculers in a free State, it is not, which may serve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for resolution sufficient for the poynt in hand.</p>
+               <p>True it is the worke may be peeced or spliced to a further length, and then also may the same lyne be found of extent enough to resolve the affirmative In the meane time I shall conclude as a skilfull Engineere did, who took upon him to defend and preserve a besieged Citie so long as they could find him materialls to worke upon wherein at last they failing, hee answered now also have I ended my worke not
+<pb n="23" facs="tcp:211335:13"/> for want of skill, but of materialls to work upon, only I thought fit, observing the conceipt of some which hould there will in a reformation (such as Presbitery or the like) be no necessity of Excommunication to close up all <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>h this addition by way of Epilogue or Lenvoy rather pro<g ref="char:EOLhyphen"/>ving then shewing an absolute necessity of it in all true Christian and Orthodox Churches, and that by a most re<g ref="char:EOLhyphen"/>markable, I may say admirable if not matchlesse, example and practise of the professors of the Gospe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l in the Polonick Churches which is this.</p>
+               <p>There being amongst them some difference though not in matter of faith yet in some circumstantiall points of the severall confessions which they severall adheere unto; some embracing the <hi>Waldensian</hi> or <hi>Bohemian,</hi> others the <hi>Augustan</hi> some the <hi>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lvecian</hi> confession: they to preserve, unitie in the bond of peace, and to keepe unshaken and inviolab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the maine do all joyntly meet at one Generall <hi>Synod</hi> and that of late yeares, in <hi>Anno</hi> 1570. 1573. 1578. 1583. 1595.<note place="margin">Brerewood preface.</note> And their <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>irst act alwayes is a Religious &amp; solemn profes<g ref="char:EOLhyphen"/>sion of their unfained &amp; unanimous consent in the substan<g ref="char:EOLhyphen"/>tiall points of Christian faith necessary to Salvation; to agree in the principall head of faith. 1 <hi>Touching the holy Scripture</hi> 2 <hi>The sacred Trinity,</hi> 3 <hi>The person of the sonne of God God and man</hi> 4 <hi>The providence of Gob,</hi> 5. <hi>Sinne,</hi> 6 <hi>Freewill</hi> 7 <hi>the Law</hi> 8 <hi>The Gospell,</hi> 9 <hi>Justification by Christ,</hi> 10 <hi>faith in his name,</hi> 11 <hi>Regeneration,</hi> 12 <hi>the Catholike Churh and supreame head thereof Christ,</hi> 13 <hi>Sacraments, their number, and use,</hi> 14 <hi>The state of Soules afer death,</hi> 15 <hi>The Resurrection and life eter<g ref="char:EOLhyphen"/>nall.</hi> Amongst the rest; they generally conclude that where<g ref="char:EOLhyphen"/>in the afore named confessions there is some difference in Phrases and formes of speech concerning Christs presence in the holy Supper which might breed disscention; All dis<g ref="char:EOLhyphen"/>putations of the manner of Christs presence should be cut off, seeing all of them do agree, the presence it selfe; and that the Eucharistiall Elements are not naked and empty signes but do truly performe to the faithfull receivers that which they signifie and represent, and to prevent all future
+<pb n="24" facs="tcp:211335:14"/> occasions of violating this sacred consent they ordained and decreed that no man should be called to the sacred mi<g ref="char:EOLhyphen"/>nistry without subscription thereunto. And when any man shall be excluded by excommunication from the Congre<g ref="char:EOLhyphen"/>gation of one Confession that hee may not be received by the Congregation of another: and now whether amongst us who are like to have too many, and many more severall Congregations then in all probability can bee yet recti<g ref="char:EOLhyphen"/>fied and drawne into an unity; of what necessity due and le<g ref="char:EOLhyphen"/>gall excommunication is, let the wisest Iudge whiles all must be sensible of the want of it there being yet amongest us as Saint <hi>Augustine</hi> hath in the same or like Case,<note place="margin">Epist: 86</note>
+                  <hi>Inter<g ref="char:EOLhyphen"/>minata luctatio.</hi>
+               </p>
+               <p>To conclude all, I shall end with the same submission as I began my labour, being not in exceptions to impeach or bar, but for cautious observations, and Rules to fit and square out a right legall and warrantable course (if it can be) of and in setling and pursuing Excommunications so tota<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly to vest it in the new, as not to leave <hi>nec vestigia quidem</hi> in the old.</p>
+            </div>
+            <trailer>FJNJS:</trailer>
+            <pb facs="tcp:211335:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
